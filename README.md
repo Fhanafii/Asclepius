@@ -1,2 +1,2 @@
 # Asclepius
-Aplikasi Kesehatan Mental dan Jiwa :)
+Aplikasi Detection Kanker
